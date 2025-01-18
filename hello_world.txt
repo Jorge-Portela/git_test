@@ -1,1 +1,3 @@
 Hello Odin!
+
+Teste to commit without "-m" on "git commit"
